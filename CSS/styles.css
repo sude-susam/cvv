@@ -1,0 +1,83 @@
+body{background-color:#EAF6F6; margin: 0px; text-align: center; padding-top: 80px;}
+
+#ilkbulut{position: absolute;  right: 350px; top:55px;  }
+#altbulut{position: absolute; left: 400px;}
+#dağ{position: relative; top: 40px;}
+h1{ margin-top: 3rem; font-family: 'Sacramento', serif; font-size: 4.5rem; color: #66BFBF; }
+#vesikalik{margin-top: 3%;}
+
+.middle-container{background-color: #ffffff; margin-top: 50px; height: 1900px;}
+
+h2{color: #66BFBF; font-size: 2.5rem; font-weight: normal; padding-top: 10px; padding-bottom: 20px;   font-family: 'Montserrat', sans-serif; text-align: center;}
+
+.imgr{width: 21%; float: left; margin-right: 30px; clear: both;}
+.basket{width: 25%; float: left; margin-right: 30px; clear: both;}
+
+.skilss{width: 37%; position: relative; left: 30%; margin-top: 50px; margin-bottom: 100px; text-align: left; line-height: 2; }
+
+.skil{width: 37%; position: relative; left: 30%; margin-top: 0px; margin-bottom: 100px; text-align: left; line-height: 2; bottom: 100px;}
+
+.skils{width: 37%; position: relative; left: 28%; margin-top: 0px; margin-bottom: 100px; text-align: left; line-height: 2; bottom: 150px;}
+.ski-ls{width: 50%; position: relative; left: 25%;  text-align: left; line-height: 2; bottom: 250px; }
+
+
+h4{color: #11999E; font-family: 'Montserrat', sans-serif;}
+
+.imgrr{width: 23%; float: right; margin-left: 30px; margin-top: 80px;}
+
+
+#ilkyazi{width: 24%; margin: auto; color: #374442; font-family: 'Open Sans', sans-serif;}
+#sonyazi{width: 25%; position: relative; left: 38%; color: #40514E; margin-top: 55px; font-family: 'Montserrat', sans-serif;  color:  #5f706e;;}
+
+.d {border-style: dotted; border-width: 0 0 100 0px; border-top: none; border-right: none; border-left: none; }
+
+p {color: #40514E; line-height: 2;}
+.iilkyazi{color: #40514E; font-family: 'Montserrat', sans-serif; font-size: 83%;}
+
+.contact-me{position: relative; bottom: 250px;}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+ 
+  margin: 55px auto auto auto;
+  position: relative;
+  left: 0.5%;
+  
+  
+  
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+  #b{margin-bottom: 100px;}
+
+  #banner{width: 100%;height: 100px;background-color: #66BFBF; padding-top: 50px;}
+  a{color:#D0FFFD; }
+  a:hover{color: #1E7B77;}
+hr{border:dotted #b4bbbb 6px;
+border-bottom: none;
+width: 4%; margin: auto; margin-top: 100px; margin-bottom: 100px;}
+#hr{border:dotted #b4bbbb 6px;
+    border-bottom: none;
+    width: 4%; margin: auto; position: relative; left: 0.2%; margin-top: 200px; margin-bottom: 100px; bottom: 250px;}
